@@ -1,0 +1,8 @@
+{
+  "window.autoDetectColorScheme": true,
+  "workbench.activityBar.autoHide": false,
+  "workbench.activityBar.compact": false,
+  "workbench.statusBar.visible": false,
+  "workbench.view.alwaysShowHeaderActions": true,
+  "window.border": "system"
+}
